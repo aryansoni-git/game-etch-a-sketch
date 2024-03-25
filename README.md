@@ -4,7 +4,7 @@
 
 ![cover](/images/cover.png)
 
-You can try the game live [here](#)!
+You can try the game live [here](https://aryansoni-git.github.io/odin-Etch-a-Sketch/)!
 
 ## Description
 
