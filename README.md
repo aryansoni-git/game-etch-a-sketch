@@ -2,7 +2,7 @@
 
 ## Demo
 
-![cover](./cover.png)
+![cover](/public/cover.png)
 
 You can try the game live [here](https://aryansoni-git.github.io/game-etch-a-sketch/)!
 
