@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.picker::-webkit-color-swatch-wrapper, .picker::-webkit-color-swatch {
+    padding: 0;
+    border: none;
+    box-shadow: #333;
+}
