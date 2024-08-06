@@ -2,9 +2,9 @@
 
 ## Demo
 
-![cover](/images/cover.png)
+![cover](./cover.png)
 
-You can try the game live [here](https://aryansoni-git.github.io/odin-Etch-a-Sketch/)!
+You can try the game live [here](https://aryansoni-git.github.io/game-etch-a-sketch/)!
 
 ## Description
 
@@ -28,6 +28,8 @@ Etch-a-Sketch is a simple web-based drawing application inspired by the classic 
 - Adjustable Grid Size: Customize the grid size using a range input to create drawings of varying complexity.
 - Random Color Option: Generate random colors for added creativity and fun.
 - Clear Button: Clear the grid with a single click to start over.
+- Responsive Design: Fully responsive across various devices and screen sizes.
+- Modern Technology: Built with React and Next.js for a better development experience and performance.
 
 ## How to Play
 
@@ -35,7 +37,7 @@ Etch-a-Sketch is a simple web-based drawing application inspired by the classic 
 2. Adjust the grid size using the range input.
 3. Select a color from the color picker or use the random color option.
 4. Start drawing on the grid by clicking (in normal mode) or hovering (in hover mode).
-5. Use the clear button to reset the grid and start over.
+5. Use the restart button to reset the grid and start over.
 
 ## Installation
 
@@ -43,14 +45,14 @@ There's no need for installation. Simply download or clone the repository to you
 
 ```bash
 
-git clone https://github.com/aryansoni-git/odin-Etch-a-Sketch
+git clone https://github.com/aryansoni-git/game-etch-a-sketch
 
 ```
 ## Navigate to the project directory:
 
 ```bash
 
-cd odin-Etch-a-Sketch
+cd game-etch-a-sketch
 
 ```
 
